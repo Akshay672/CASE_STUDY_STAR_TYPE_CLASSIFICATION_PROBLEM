@@ -49,3 +49,38 @@ The target variable is '**class**' which has 3 categories:
 **Galaxy**: It is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity. We are a part of the milky way galaxy.
 
 **QS0(Quasar)**: It is an astronomical object of very high luminosity found in the centres of some galaxies and it is powered by gas spiraling at high velocity into an extremely large black hole.
+
+# Task Completed:
+Import Libraries
+
+1.Data Preprocessing
+
+2.Data Visualization
+
+3.Data Encoding
+
+4.Data Cleaning
+
+5.Feature Scaling
+
+6.Model Building
+
+6.1 - K Nearest Neighbour Classifier
+
+6.2 - Random Forest Classifier
+
+6.3 - AdaBoost classifier
+
+6.4 - XGBoost Classifier
+
+6.5 - Final Result
+
+
+
+# Conclusion :
+
+Through this notebook, we have analyzed the SDSS data (we learned some very interesting facts about our space along the way), how to build a machine learning model to predict for unseen data from this data set and how to improve its performance (even though there was only a slight improvent). We used XGBoost for predicting and evaluated its result.
+
+CASE STUDY FILE LINK : NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb
+About
+A study on unsupervised learning techniques(Clustering & Recommendation), market basket analysis and recommendation systems on 'Netflix Titles'.
