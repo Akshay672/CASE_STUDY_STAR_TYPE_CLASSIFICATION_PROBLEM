@@ -81,6 +81,8 @@ Import Libraries
 
 Through this notebook, we have analyzed the SDSS data (we learned some very interesting facts about our space along the way), how to build a machine learning model to predict for unseen data from this data set and how to improve its performance (even though there was only a slight improvent). We used XGBoost for predicting and evaluated its result.
 
-CASE STUDY FILE LINK : NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb
-About
-A study on unsupervised learning techniques(Clustering & Recommendation), market basket analysis and recommendation systems on 'Netflix Titles'.
+
+<h4>DATASET FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_STAR_TYPE_CLASSIFIACTION_PROBlEM/blob/main/sky_survey_project_final_datasetnew.csv'>sky_survey_project_final_datasetnew.csv</a></h4>
+
+
+<h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/CASE_STUDY_STAR_TYPE_CLASSIFIACTION_PROBlEM/blob/main/CASE_STUDY_STAR_TYPE_CLASSIFICATION_PROBlEM.ipynb'>CASE_STUDY_STAR_TYPE_CLASSIFICATION_PROBlEM</a></h4>
